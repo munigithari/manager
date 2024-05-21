@@ -1,0 +1,196 @@
+/* Write your CSS here */
+* {
+    margin : 0px;
+}
+.bg-container {
+    min-height : 100vh;
+    background-color: #ffffff;
+    background-size : cover;
+}
+.top-container {
+    height : 25vh;
+    min-width : 70%;
+    background-image: url("https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png");
+    background-size : cover;
+    margin-left : 30px;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    margin-right : 30px;
+    margin-top : 40px;
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+}
+.heading {
+    color : #475569;
+    font-size : 18px;
+    font-family : "Roboto";
+    align-self : flex-start;
+    padding-left : 30px;
+    padding-bottom: 10px;
+}
+.paragraph {
+    color : black;
+    font-size : 14px;
+    font-family : "Roboto";
+    align-self : flex-start;
+    padding-left : 30px;
+}
+.paragraph1 {
+    color : #334155;
+    font-size : 10px;
+    font-family : "Roboto";
+    align-self : flex-start;
+    padding-left : 30px;
+    padding-bottom : 10px;
+    padding-top : 30px;
+}
+.paragraph2 {
+    color : #334155;
+    font-size : 12px;
+    font-family : "Roboto";
+    align-self : flex-start;
+    padding-left : 30px;
+}
+.span-item {
+    color : #0b69ff;
+    font-size : 14px;
+    font-family : "Roboto";
+    font-weight : bold;
+    align-self : flex-start;
+}
+.middle-container {
+    height : 25vh;
+    min-width : 70%;
+    background-color: #ffffff;
+    background-size : cover;
+    margin-left : 30px;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    margin-right : 30px;
+    margin-top : 10px;
+    display : flex;
+    justify-content: center;
+    align-items : center;
+    flex-wrap : wrap;
+}
+
+.bottom-container {
+    height : 60vh;
+    min-width : 70%;
+    background-color: #ffffff;
+    background-size : cover;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    margin-right : 30px;
+    margin-top : 10px;
+    display : flex;
+    justify-content: center;
+    align-items : center;
+}
+.container1 {
+    height : 18vh;
+    min-width : 30%;
+    background-color: #ecfccb;
+    background-size : cover;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    margin-top : 8px;
+    margin-right : 14px;
+    display : flex;
+    justify-content: center;
+}
+.container2 {
+    height : 18vh;
+    min-width : 30%;
+    background-color:  #cffafe;
+    background-size : cover;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    display : flex;
+    justify-content: center;
+    margin-top : 8px;
+    margin-left : 8px;
+    margin-right : 8px;
+}
+.container3 {
+    height : 18vh;
+    min-width : 30%;
+    background-color: #ede9fe;
+    background-size : cover;
+    border-width : 0px;
+    border-style : solid;
+    border-radius: 8px;
+    display : flex;
+    justify-content: center;
+    margin-top : 8px;
+    margin-left : 12px;
+   
+}
+.form-item {
+    display : flex;
+    flex-direction : column;
+    padding : 20px;
+}
+.container4 {
+    min-width : 20%;
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+    align-items : center;
+    background-color: #ffffff;
+    margin-right : 20px;
+     border-width : 1px;
+    border-style : solid;
+    border-radius : 8px;
+    border-color : #7e858e;
+}
+.heading3 {
+    color : #1e293b;
+    font-size : 18px;
+    font-family : "Roboto";
+    align-self : flex-start;
+}
+.title {
+    color :  #7e858e;
+    font-size : 13px;
+    font-family : "Roboto";
+    align-self : flex-start;
+    padding-top : 20px;
+}
+.text {
+    color :  #1e293b;
+}
+.option {
+    color :  #1e293b;
+}
+.button1 {
+    color : #ffffff;
+    border-width : 0px;
+    background-color:  #0b69ff;
+    border-radius : 4px;
+    font-size  :13px;
+    margin-top : 20px;
+}
+.container5 {
+    min-width : 40%;
+    display : flex;
+    flex-direction : column;
+    justify-content: center;
+    align-items : center;
+    background-color: #ffffff;
+     border-width : 1px;
+    border-style : solid;
+    border-radius : 8px;
+    border-color : #7e858e;
+}
+.image1 {
+    height : 30px;
+    width : 30px;
+    padding-top : 30px;
+}
